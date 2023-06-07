@@ -1,0 +1,131 @@
+question,region,sex,annee,proportion
+Question 3 b iv,France,F,1992,0.286
+Question 3 b iv,France,M,1992,0.714
+Question 3 b iv,France,F,1994,0.306
+Question 3 b iv,France,M,1994,0.694
+Question 3 b iv,France,F,1996,0.341
+Question 3 b iv,France,M,1996,0.659
+Question 3 b iv,France,F,1998,0.292
+Question 3 b iv,France,M,1998,0.708
+Question 3 b iv,France,F,2000,0.372
+Question 3 b iv,France,M,2000,0.628
+Question 3 b iv,France,F,2002,0.237
+Question 3 b iv,France,M,2002,0.763
+Question 3 b iv,France,F,2004,0.367
+Question 3 b iv,France,M,2004,0.633
+Question 3 b iv,France,F,2006,0.390
+Question 3 b iv,France,M,2006,0.610
+Question 3 b iv,France,F,2008,0.392
+Question 3 b iv,France,M,2008,0.608
+Question 3 b iv,France,F,2010,0.356
+Question 3 b iv,France,M,2010,0.644
+Question 3 b iv,France,F,2012,0.438
+Question 3 b iv,France,M,2012,0.562
+Question 3 b iv,France,F,2014,0.364
+Question 3 b iv,France,M,2014,0.636
+Question 3 b iv,France,F,2016,0.426
+Question 3 b iv,France,M,2016,0.574
+Question 3 b iv,Germany,F,1992,0.347
+Question 3 b iv,Germany,M,1992,0.653
+Question 3 b iv,Germany,F,1994,0.295
+Question 3 b iv,Germany,M,1994,0.705
+Question 3 b iv,Germany,F,1996,0.401
+Question 3 b iv,Germany,M,1996,0.599
+Question 3 b iv,Germany,F,1998,0.376
+Question 3 b iv,Germany,M,1998,0.624
+Question 3 b iv,Germany,F,2000,0.429
+Question 3 b iv,Germany,M,2000,0.571
+Question 3 b iv,Germany,F,2002,0.439
+Question 3 b iv,Germany,M,2002,0.561
+Question 3 b iv,Germany,F,2004,0.433
+Question 3 b iv,Germany,M,2004,0.567
+Question 3 b iv,Germany,F,2006,0.394
+Question 3 b iv,Germany,M,2006,0.606
+Question 3 b iv,Germany,F,2008,0.436
+Question 3 b iv,Germany,M,2008,0.564
+Question 3 b iv,Germany,F,2010,0.376
+Question 3 b iv,Germany,M,2010,0.624
+Question 3 b iv,Germany,F,2012,0.446
+Question 3 b iv,Germany,M,2012,0.554
+Question 3 b iv,Germany,F,2014,0.497
+Question 3 b iv,Germany,M,2014,0.503
+Question 3 b iv,Germany,F,2016,0.464
+Question 3 b iv,Germany,M,2016,0.536
+Question 3 b iv,Japan,F,1992,0.317
+Question 3 b iv,Japan,M,1992,0.683
+Question 3 b iv,Japan,F,1994,0.271
+Question 3 b iv,Japan,M,1994,0.729
+Question 3 b iv,Japan,F,1996,0.487
+Question 3 b iv,Japan,M,1996,0.513
+Question 3 b iv,Japan,F,1998,0.410
+Question 3 b iv,Japan,M,1998,0.590
+Question 3 b iv,Japan,F,2000,0.414
+Question 3 b iv,Japan,M,2000,0.586
+Question 3 b iv,Japan,F,2002,0.427
+Question 3 b iv,Japan,M,2002,0.573
+Question 3 b iv,Japan,F,2004,0.546
+Question 3 b iv,Japan,M,2004,0.454
+Question 3 b iv,Japan,F,2006,0.473
+Question 3 b iv,Japan,M,2006,0.527
+Question 3 b iv,Japan,F,2008,0.497
+Question 3 b iv,Japan,M,2008,0.503
+Question 3 b iv,Japan,F,2010,0.473
+Question 3 b iv,Japan,M,2010,0.527
+Question 3 b iv,Japan,F,2012,0.533
+Question 3 b iv,Japan,M,2012,0.467
+Question 3 b iv,Japan,F,2014,0.560
+Question 3 b iv,Japan,M,2014,0.440
+Question 3 b iv,Japan,F,2016,0.490
+Question 3 b iv,Japan,M,2016,0.510
+Question 3 b iv,South Korea,F,1992,0.305
+Question 3 b iv,South Korea,M,1992,0.695
+Question 3 b iv,South Korea,F,1994,0.476
+Question 3 b iv,South Korea,M,1994,0.524
+Question 3 b iv,South Korea,F,1996,0.373
+Question 3 b iv,South Korea,M,1996,0.627
+Question 3 b iv,South Korea,F,1998,0.297
+Question 3 b iv,South Korea,M,1998,0.703
+Question 3 b iv,South Korea,F,2000,0.377
+Question 3 b iv,South Korea,M,2000,0.623
+Question 3 b iv,South Korea,F,2002,0.326
+Question 3 b iv,South Korea,M,2002,0.674
+Question 3 b iv,South Korea,F,2004,0.451
+Question 3 b iv,South Korea,M,2004,0.549
+Question 3 b iv,South Korea,F,2006,0.350
+Question 3 b iv,South Korea,M,2006,0.650
+Question 3 b iv,South Korea,F,2008,0.400
+Question 3 b iv,South Korea,M,2008,0.600
+Question 3 b iv,South Korea,F,2010,0.400
+Question 3 b iv,South Korea,M,2010,0.600
+Question 3 b iv,South Korea,F,2012,0.460
+Question 3 b iv,South Korea,M,2012,0.540
+Question 3 b iv,South Korea,F,2014,0.423
+Question 3 b iv,South Korea,M,2014,0.577
+Question 3 b iv,South Korea,F,2016,0.502
+Question 3 b iv,South Korea,M,2016,0.498
+Question 3 b iv,UK,F,1992,0.362
+Question 3 b iv,UK,M,1992,0.638
+Question 3 b iv,UK,F,1994,0.219
+Question 3 b iv,UK,M,1994,0.781
+Question 3 b iv,UK,F,1996,0.387
+Question 3 b iv,UK,M,1996,0.613
+Question 3 b iv,UK,F,1998,0.206
+Question 3 b iv,UK,M,1998,0.794
+Question 3 b iv,UK,F,2000,0.416
+Question 3 b iv,UK,M,2000,0.584
+Question 3 b iv,UK,F,2002,0.367
+Question 3 b iv,UK,M,2002,0.633
+Question 3 b iv,UK,F,2004,0.390
+Question 3 b iv,UK,M,2004,0.610
+Question 3 b iv,UK,F,2006,0.410
+Question 3 b iv,UK,M,2006,0.590
+Question 3 b iv,UK,F,2008,0.464
+Question 3 b iv,UK,M,2008,0.536
+Question 3 b iv,UK,F,2010,0.462
+Question 3 b iv,UK,M,2010,0.538
+Question 3 b iv,UK,F,2012,0.485
+Question 3 b iv,UK,M,2012,0.515
+Question 3 b iv,UK,F,2014,0.396
+Question 3 b iv,UK,M,2014,0.604
+Question 3 b iv,UK,F,2016,0.442
+Question 3 b iv,UK,M,2016,0.558
